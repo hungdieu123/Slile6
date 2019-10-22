@@ -4,4 +4,9 @@
     <string name="facebook_app_id">460622141218559</string>
     <string name="fb_login_protocol_scheme">fb460622141218559</string>
 
+
+    <string name="danhsachkhoahoc">Danh sách khóa học</string>
+    <string name="danhsachkhoahocdadangky">Danh sách khóa học đã đăng ký</string>
+    <string name="title_activity_navi">Map</string>
+
 </resources>
